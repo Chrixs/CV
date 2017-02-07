@@ -1,10 +1,10 @@
 ## Chris Marriott
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Job history](#job-history) | [Hobbies](#hobbies) | [Contact me](#contact-me)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Job history](#job-history) | [Hobbies](#hobbies) | [Contact](#contact)
 
 ##### About me
 
-I am a Makers Academy Full Stack Junior Developer with experience in Ruby, Ruby on Rails, JavaScript, jQuery, C#, Unity, HTML5 and CSS.
+I am a [Makers Academy](http://www.makersacademy.com/) Full Stack Junior Developer with experience in Ruby, Ruby on Rails, JavaScript, jQuery, C#, Unity, HTML5 and CSS.
 
 I am enthusiastic about development and the opportunities development has to offer. I started as just an enthusiastic amateur with no experience with code, over the course of just 12 week at Makers I've progressed dramatically into a confident junior developer. I'm dedicated to writing SOLID, clean and test driven code.
 
@@ -34,12 +34,13 @@ At Makers Academy we were constantly exposed to new technologies each week, I lo
 
 #### Makers Academy (7th Nov 2016 to 10th Feb 2017)
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine
+- Rspec, Jasmine, Omniauth
+- XP values
 
 #### British and Irish Institute for Modern Music (Sept 2013 - June 2016)
 
@@ -56,11 +57,14 @@ At Makers Academy we were constantly exposed to new technologies each week, I lo
 
 - Psychology
 
-#### Any other qualifications
+#### Job history
 
-## Experience
+- ** Waitrose ** (Sept 2012 - June 2013)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+  Checkout and replenishment
+
+#### Hobbies
+
+#### Contact
+
+- **Email** - chrixs99@hotmail.com
