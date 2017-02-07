@@ -1,5 +1,7 @@
 ## Chris Marriott
 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Job history](#job-history) | [Hobbies](#hobbies) | [Contact me](#contact-me)
+
 ##### About me
 
 I am a Makers Academy Full Stack Junior Developer with experience in Ruby, Ruby on Rails, JavaScript, jQuery, C#, Unity, HTML5 and CSS.
