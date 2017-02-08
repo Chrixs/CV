@@ -1,6 +1,6 @@
 ## Chris Marriott
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Job history](#job-history) | [Hobbies](#hobbies) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 ##### About me
 
@@ -8,9 +8,15 @@ I am a [Makers Academy](http://www.makersacademy.com/) Full Stack Junior Develop
 
 I am enthusiastic about development and the opportunities development has to offer. I started as just an enthusiastic amateur with no experience with code, over the course of just 12 week at Makers I've progressed dramatically into a confident junior developer. I'm dedicated to writing SOLID, clean and test driven code.
 
-I'm looking for
+I'm looking to continue learning and gain experience in Full-Stack and Back-End development.
 
 ## Projects
+
+| Projects  | Tech Stack  | Time frame  | Link  |
+| --- | --- | --- | --- |
+| Airport Challenge | Ruby  | First solo weekend project | [![GitHub Repo](./Octocat.png)](https://github.com/Chrixs/airport_challenge/tree/master) |
+| Bank tech test | Ruby  | Week 10, written in one day | [![GitHub Repo](./Octocat.png)](https://github.com/Chrixs/bank_tech_test) |
+| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 and 12, final project in a team of 3 |  [![GitHub Repo](./Octocat.png)](https://github.com/Chrixs/theresa_mayhem) |
 
 ## Skills
 
@@ -38,7 +44,7 @@ At Makers Academy we were constantly exposed to new technologies each week, I lo
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript
 - Rspec, Jasmine, Omniauth
 - XP values
 
@@ -57,14 +63,18 @@ At Makers Academy we were constantly exposed to new technologies each week, I lo
 
 - Psychology
 
-#### Job history
-
-- ** Waitrose ** (Sept 2012 - June 2013)
-
-  Checkout and replenishment
-
 #### Hobbies
+
+- Music
+
+- Snowboarding
+
+- Climbing
+
+- Gaming
 
 #### Contact
 
 - **Email** - chrixs99@hotmail.com
+
+- **GitHub** - https://github.com/Chrixs
