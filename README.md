@@ -52,8 +52,6 @@ At Makers Academy we were constantly exposed to new technologies each week, I lo
 
 - BA in Professional Musicianship (2.1)
 
-- Other cool stuff
-
 #### Ardingly College
 ###### A Levels:
 
