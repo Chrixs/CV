@@ -16,7 +16,7 @@ I'm looking to continue learning and gain experience in Full-Stack and Back-End 
 | --- | --- | --- | --- |
 | Airport Challenge | Ruby  | First solo weekend project | [![GitHub Repo](./Octocat.png)](https://github.com/Chrixs/airport_challenge/tree/master) |
 | Bank tech test | Ruby  | Week 10, written in one day | [![GitHub Repo](./Octocat.png)](https://github.com/Chrixs/bank_tech_test) |
-| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 and 12, final project in a team of 3 |  [![GitHub Repo](./dropbox.png)](https://www.dropbox.com/sh/82du9l3ux68j9ku/AADgPbRM2J3TiKHjFcyvYC7ba?dl=0) |
+| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 and 12, final project in a team of 3 |  [![GitHub Repo](./Octocat.png)](https://github.com/Chrixs/theresa_mayhem/tree/master) |
 
 ## Skills
 
