@@ -8,7 +8,7 @@ I am a [Makers Academy](http://www.makersacademy.com/) Full Stack Junior Develop
 
 I am enthusiastic about development and the opportunities development has to offer. I started as just an enthusiastic amateur with no experience with code, over the course of just 12 week at Makers I've progressed dramatically into a confident junior developer. I'm dedicated to writing SOLID, clean and test driven code.
 
-I'm looking to continue learning and gain experience in Full-Stack and Back-End development.
+I'm looking to continue learning and gain experience in Full-Stack development.
 
 ## Projects
 
