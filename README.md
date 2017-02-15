@@ -54,6 +54,7 @@ At Makers Academy we were constantly exposed to new technologies each week. I lo
 
 #### Ardingly College
 - Music scholarship
+
 ###### A Levels:
 
 - Music
